@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17253" appversion="6.0.2">
+  <panorama id="node1" hideabout="1">
+    <input levelingpitch="0" width="2048" leveltilesize="512" height="2048" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="241" fovmode="0">
+      <start tilt="1.66" fov="70" pan="0.81" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment=" لمقر مجلس النواب" customnodeid="" tags="مجلس النواب" longitude="" description="تمكنك هذه الزيارة الافتراضية من التجول داخل مبنى وأروقة مجلس النواب، المتواجد بمدينة الرباط العاصمة الإدارية والسياسية للمملكة المغربية، وتعتبر بناية مجلس النواب معلمة تاريخية تم تشييدها في العشرينيات من القرن الماضي وأعيد تهيئتها سنة 1985 بمبادرة من المغفور له جلالة الملك الحسن الثاني رحمه الله.&#xa;تم تصميم مختلف الفضاءات بأسلوب جمع بين الفن المغربي الأصيل والهندسة المعمارية الحديثة، كما ستلاحظ من خلال تجولك في مرافقه الرئيسية المرفقة بفقرات تعريفية لكل فضاء.&#xa;" info="مجلس النواب" title="مرحبا بك في الزيارة الافتراضية" source="مجلس النواب" datetime="05/02/2019 15:01" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" tilt="5.03" url="{node2}" skinid="ht_node" description="بهو الاستقبال " target="" title="بهو الاستقبال " pan="-359.12"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="5.100" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-348.580" pansize="10.000">
+        <source url="media/1.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingpitch="0" width="2048" leveltilesize="512" height="2048" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" fov="75" pan="-90" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="-360"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="0" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="مباشرة بعد المدخل الرئيسي يتواجد بهو فسيح لاستقبال الوفود التي تزور المجلس من داخل وخارج المملكة. ويمكن عبر هذا البهو الوصول لقاعة الجلسات العامة وقاعات اجتماعات اللجان النيابية وفضاءات لاحتضان المؤتمرات والندوات التي ينظمها مجلس النواب على مدار السنة التشريعية.&#xa;ويعتبر مجلس النواب فضاء منفتحا على محيطه الخارجي الوطني والدولي، ويستقبل على مدار السنة عددا مهما من المواطنين خصوصا الشباب منهم، المتمدرسين والطلاب الجامعيين.&#xa;يمكنك اختيار وجهتك المقبلة بالضغط على: قاعة الجلسات العامة، القاعة المغربية، قاعة الندوات والمؤتمرات أو المكتبة.&#xa;" info="مجلس النواب" title="بهو الاستقبال " source="مجلس النواب" datetime="22/03/2019 12:18" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-1.53" url="{node1}" skinid="ht_node" description="مدخل مجلس النواب" target="" title="مدخل مجلس النواب" pan="-269.58"/>
+      <hotspot id="Point02" tilt="-0.58" url="{node3}" skinid="ht_node" description="القاعة المغربية" target="" title="القاعة المغربية" pan="-135.11"/>
+      <hotspot id="Point04" tilt="-2.03" url="{node7}" skinid="ht_node" description="قاعة الندوات و المؤتمرات" target="" title="قاعة الندوات و المؤتمرات" pan="-220.62"/>
+      <hotspot id="Point03" tilt="-1.82" url="{node13}" skinid="ht_node" description="مكتبة المجلس" target="" title="مكتبة المجلس" pan="115.55"/>
+      <hotspot id="Point05" tilt="-2.06" url="{node14}" skinid="ht_node" description="قاعة الجلسات العامة" target="" title="قاعة الجلسات العامة" pan="-313.23"/>
+      <hotspot id="Point06" tilt="-0.93" url="{node3}" skinid="ht_node" description="القاعة المغربية" target="" title="القاعة المغربية" pan="-45.64"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="0.000" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-90.340" pansize="10.000">
+        <source url="media/2.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingpitch="0" width="2048" leveltilesize="512" height="2048" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="236" fovmode="0">
+      <start tilt="-0.68" fov="70" pan="14.88" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="تعتبر القاعة المغربية من بين أبرز وأهم القاعات المتواجدة بمجلس النواب، نظرا لتوفرها على طاولة اجتماعات كبيرة وشاشات كبيرة للعرض، وصالون مغربي تقليدي، مما يسمح باستقبال عدد كبير من المشاركين والمتدخلين خلال التظاهرات والمؤتمرات الدولية التي ينظمها مجلس النواب على امتداد السنة وأيضا خلال الندوات الصحفية التي تحظى دائما بتغطية إعلامية واسعة." info="مجلس النواب" title="القاعة المغربية" source="مجلس النواب" datetime="13/02/2019 14:06" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" tilt="-4.91" url="{node4}" skinid="ht_node" description="" target="" title="" pan="-330.92"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-3.740" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-354.700" pansize="10.000">
+        <source url="media/3.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingpitch="0" width="2048" leveltilesize="512" height="2048" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="154" fovmode="0">
+      <start tilt="-1.53" fov="70" pan="-98.46" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="تشهد القاعة المغربية أيضا احتضان أشغال الأيام الدراسية التي تنظمها الفرق والمجموعات النيابية، التي يتم خلالها مناقشة القضايا المجتمعية أو مشاريع ومقترحات القوانين، حيث تعرف حضور مختلف هيئات المجتمع المدني وممثلين عن الأطراف المهتمة بالموضوع." info="مجلس النواب" title="القاعة المغربية" source="مجلس النواب" datetime="13/02/2019 14:23" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-1.8" url="{node5}" skinid="ht_node" description="" target="" title="" pan="-94.73"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-5.610" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-84.740" pansize="10.000">
+        <source url="media/4.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingpitch="0" width="2048" leveltilesize="512" height="2048" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="152" fovmode="0">
+      <start tilt="4.95575" fov="70" pan="-91.5708" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="يبرز تصميم القاعة الذي يجمع بين الأسلوب العصري والهندسة المغربية، جمالية الصناعة التقليدية ومدى مهارة وإبداع الصناع التقليديين والحرفيين في احياء الفن المعماري الأصيل وملائمته مع الحاضر، لتشكل بذلك القاعة المغربية مثالا على جمالية وغنى التراث المغربي ومفخرة واعتزازا بهويتنا المغربية." info="مجلس النواب" title="القاعة المغربية" source="مجلس النواب" datetime="13/02/2019 14:12" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point03" tilt="1.12" url="{node2}" skinid="ht_node" description="بهو الاستقبال " target="" title="بهو الاستقبال " pan="-258.64"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-12.930" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-93.500" pansize="10.000">
+        <source url="media/5.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingpitch="0" width="1368" leveltilesize="512" height="1368" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-7.31" fov="70" pan="0.9" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="تعتبر هذه القاعة فضاء مهما داخل مجلس النواب، يحتضن مختلف أشغال المجلس من ندوات ومؤتمرات وتظاهرات وأيام دراسية، سواء كانت ذات طابع محلي أو جهوي أو دولي.&#xa;وعلى غرار باقي مرافق مجلس النواب، يبرز جليا الطابع المغربي الأصيل من خلال الزخارف والقبة التي تزين القاعة.&#xa;" info="مجلس النواب" title="قاعة الندوات و المؤتمرات" source="مجلس النواب" datetime="03/04/2019 10:49" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-6.2" url="{node8}" skinid="ht_node" description="" target="" title="" pan="-349.15"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-5.850" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-0.460" pansize="10.000">
+        <source url="media/6.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingpitch="0" width="1368" leveltilesize="512" height="1368" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-12.81" fov="70" pan="-173.56" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="تتميز قاعة المؤتمرات والندوات عن باقي قاعات المجلس بتوفرها على عدد من الحجرات الخاصة بالترجمة في الطابق العلوي، بحيث تقدم كل حجرة من هذه الحجرات ترجمة فورية للمداخلات إلى إحدى اللغات الأجنبية، مما يأهلها لاحتضان المؤتمرات والتظاهرات الدولية التي ينظمها مجلس النواب والتي تعرف مشاركة وفود من مختلف دول العالم." info="مجلس النواب" title="قاعة الندوات و المؤتمرات" source="مجلس النواب" datetime="03/04/2019 10:42" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" tilt="0.55" url="{node9}" skinid="ht_node" description="" target="" title="" pan="-166.85"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-3.930" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-178.180" pansize="10.000">
+        <source url="media/7.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelingpitch="0" width="1368" leveltilesize="512" height="1368" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="3.96" fov="70" pan="-178.26" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="وقد شهد مجلس النواب خلال السنوات الأخيرة، احتضان عدد كبير من التظاهرات الدولية الهامة، نظرا للمكانة المتميزة التي يحظى بها داخل الأوساط والمنظمات البرلمانية الدولية وحرصا منه على أن يظل فضاء رئيسيا لتعزيز مبادئ التفاهم والتعاون والحوار والدفاع عن القضايا القومية والوطنية." info="مجلس النواب" title="قاعة الندوات و المؤتمرات" source="مجلس النواب" datetime="03/04/2019 10:45" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point03" tilt="7.09" url="{node2}" skinid="ht_node" description="بهو الاستقبال " target="" title="بهو الاستقبال " pan="-178.41"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="1.790" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-160.270" pansize="10.000">
+        <source url="media/8.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelingpitch="0" width="1368" leveltilesize="512" height="1368" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="2.58" fov="70" pan="-8.47" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="تأسست مكتبة مجلس النواب سنة 1970، وخصصت لها قاعة كبرى تليق بمكانتها داخل المؤسسة. فبعد أن كانت ذات طابع مغربي أصيل من حيث زخرفتها، أصبحت سنة 1985 مكتبة تجمع بين الرونق المغربي والتجهيز العصري. وفي سنة 2014 خصص لها فضاء من الجيل الجديد يليق وحجم مؤسسة مجلس النواب من حيث جماليتها، وتجهيزاتها ورصيدها الوثائقي التي تزخر به." info="مجلس النواب" title="مكتبة مجلس النواب" source="مجلس النواب" datetime="03/04/2019 11:11" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" tilt="-0.14" url="{node11}" skinid="ht_node" description="" target="" title="" pan="-358.05"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="1.300" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-21.050" pansize="10.000">
+        <source url="media/9.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelingpitch="0" width="1368" leveltilesize="512" height="1368" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="4.25" fov="70" pan="-133.36" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="على غرار باقي المكتبات البرلمانية، تعمل مكتبة مجلس النواب جاهدة لتلبية حاجيات كافة المستعملين، من السادة البرلمانيين نوابا ومستشارين وكذا أطر المجلسين إضافة الى الباحثين الذين يهيؤون عملا أكاديميا لنيل إحدى الشواهد الجامعية العليا. تفتح المكتبة أبوابها للعموم كل يوم خميس ابتداء من الساعة التاسعة صباحا إلى الساعة الرابعة بعد الزوال." info="مجلس النواب" title="مكتبة مجلس النواب" source="مجلس النواب" datetime="03/04/2019 11:05" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" tilt="-2.35" url="{node12}" skinid="ht_node" description="" target="" title="" pan="-179.53"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-6.590" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-157.750" pansize="10.000">
+        <source url="media/10.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelingpitch="0" width="1368" leveltilesize="512" height="1368" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-1.92" fov="70" pan="-110.32" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="يتكون رصيد المكتبة من حوالي 20.000 كتاب صادرة عن ناشرين أو من جهات رسمية، وأيضا على مجموعة من المعاجم والموسوعات والدوريات في مختلف الميادين المعرفية، إضافة الى تقارير صادرة عن اللجان الدائمة وإصدارات مجلس النواب المتمثلة في حصيلة عمله في مجالات التشريع، مراقبة العمل الحكومي، الدبلوماسية البرلمانية، وكذا مناقشات النصوص التشريعية، وعدة كتب أخرى في مختلف الميادين المعرفية." info="مجلس النواب" title="مكتبة مجلس النواب" source="مجلس النواب" datetime="03/04/2019 11:19" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" tilt="-4.17" url="{node2}" skinid="ht_node" description="بهو الاستقبال " target="" title="بهو الاستقبال " pan="-148.79"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-13.550" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-90.140" pansize="10.000">
+        <source url="media/11.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelingpitch="0" width="2048" leveltilesize="512" height="2048" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="47" fovmode="0">
+      <start tilt="3.17976" fov="70" pan="-1.81583" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="تمت تهيئة قاعة الجلسات على شكل نصف دائري في الولاية الرابعة التي انطلقت سنة 1984، لتُيَسِّر نظريا التوافق بين الفرق والمجموعات البرلمانية خاصة عندما يتعلق الأمر بنظام ديمقراطي قوامه التعددية الحزبية.&#xa;كما تم حينها في زمن قياسي إنشاء القُبَّة، هذا الشكل المعماري والزخرفي الذي أبان عن مهارة الحرفيين والصناع التقليديين في المملكة.&#xa;" info="مجلس النواب" title="قاعة الجلسات" source="مجلس النواب" datetime="06/02/2019 13:41" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point02" tilt="14.27" url="{node16}" skinid="ht_node" description="" target="" title="" pan="-333.56"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-4.460" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-358.000" pansize="10.000">
+        <source url="media/12.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelingpitch="0" width="1368" leveltilesize="512" height="1368" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="1368" height="1368" preload="0" predecode="0"/>
+      <level width="684" height="684" preload="0" predecode="0"/>
+      <level width="342" height="342" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="-27.2987" fov="70" pan="-5.77547" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="تنعقد الجلسات العمومية داخل هذه القاعة، وتتكون من 440 مقعدا منها ما هو مخصص للصحافة والزوار ومنها ما هو مخصص لأعضاء الحكومة وللسيدات والسادة النواب البرلمانيين المنتمين لمختلف الفرق البرلمانية المكونة للمجلس، والذين يبلغ عددهم 395 عضوا، 305 نائبا برلمانيا يتم انتخابهم عن طريق الاقتراع المباشر، و90 عضوا عن طريق الانتخاب باللائحة الوطنية، منها 60 مقعدا تخصص للنساء و30 مقعدا تخصص للشباب إناثا وذكورا." info="مجلس النواب" title="قاعة الجلسات" source="مجلس النواب" datetime="04/04/2019 15:13" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-9.35" url="{node17}" skinid="ht_node" description="" target="" title="" pan="-11.5"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-7.440" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-345.920" pansize="10.000">
+        <source url="media/13.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelingpitch="0" width="2048" leveltilesize="512" height="2048" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
+      <level width="1024" height="1024" preload="0" predecode="0"/>
+      <level width="512" height="512" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="93" fovmode="0">
+      <start tilt="0" fov="70" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovfisheye="360" fov="100" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" customnodeid="" tags="مجلس النواب" longitude="" description="يترأس جلالة الملك افتتاح السنة التشريعية في جلسة عمومية مشتركة بين مجلس النواب ومجلس المستشارين تعقد داخل قاعة الجلسات بمجلس النواب. كما يعقد مجلس النواب جلسة عمومية أسبوعية، كل يوم اثنين، تخصص للأسئلة الشفوية الموجهة لأعضاء الحكومة، وجلسة شهرية للأسئلة الشفوية الموجهة لرئيس الحكومة، فيما تخصص جلسة يعرض خلالها رئيس الحكومة الحصيلة المرحلية لعمل الحكومة، وتخصص جلسة سنوية لمناقشة السياسات العمومية وتقييمها.&#xa;وفي ظل دستور 2011، أصبحت مجموعة من المؤسسات والهيئات الدستورية ملزمة بتقديم تقرير عن أعمالها مرة واحدة في السنة على الأقل، يكون موضع مناقشة داخل قاعات الجلسات العامة.&#xa;" info="مجلس النواب" title="قاعة الجلسات" source="مجلس النواب" datetime="06/02/2019 16:14" author="مجلس النواب" copyright="مجلس النواب" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" width="180" border="1" borderradius="1" height="20" wordwrap="1" bordercolor="0x000000" background="1" textalpha="1" backgroundalpha="1" borderalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1"/>
+      <hotspot id="Point01" tilt="-9.85" url="{node2}" skinid="ht_node" description="بهو الاستقبال " target="" title="بهو الاستقبال " pan="-273.25"/>
+    </hotspots>
+    <media>
+      <sound id="Element01" tilt="-12.860" nodechangekeep="0" tiltsize="10.000" field="90.000" mode="1" startmutedmobile="0" level="1.000" loop="1" ambientlevel="0.000" pan="-2.600" pansize="10.000">
+        <source url="media/14.mp3"/>
+      </sound>
+    </media>
+    <transition enabled="1" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomin="2" softedge="0" zoomout="0" zoomspeed="2" zoomfov="30" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" hideabout="1" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedwheel="0" rubberband="0" invertwheel="0" lockedmouse="0" contextfullscreen="0" contextprojections="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" customnodeid="" tags="" longitude="" description="" info="" title="" source="" datetime="" author="" copyright="" latitude=""/>
+  </masternode>
+</tour>
